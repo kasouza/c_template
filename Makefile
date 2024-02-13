@@ -11,7 +11,7 @@ TEST := "test_$(EXEC)"
 # Object files
 OBJS := $(addprefix src/,saske.o)
 EXEC_OBJS := $(addprefix src/,main.o)
-TEST_OBJS := $(addprefix test/,main.o)
+TEST_OBJS := $(addprefix test/,main.o test.o)
 
 
 # Configs
