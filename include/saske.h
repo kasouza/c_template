@@ -1,0 +1,6 @@
+#ifndef KASOUZA_C_TEMPLATE_INCLUDE_INCLUDE_SASKE_H
+#define KASOUZA_C_TEMPLATE_INCLUDE_INCLUDE_SASKE_H
+
+const char* saske();
+
+#endif

@@ -7,6 +7,6 @@ int main(void) {
     refresh();
     getch();
     endwin();
-    
+
     return 0;
 }
